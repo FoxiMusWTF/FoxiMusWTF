@@ -1,4 +1,4 @@
-<h1 align="center"> FoxiMusWTF / coder </h1>
+<h1 align="center"> FoxiMus_WTF / coder </h1>
 
 ###
 
