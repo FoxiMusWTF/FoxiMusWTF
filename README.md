@@ -1,4 +1,4 @@
-<h1 align="center"> FoxiMus_WTF / coder </h1>
+<h1 align="center"> FoxiMus_WTF / podpivas coder </h1>
 
 ###
 
